@@ -1,0 +1,2 @@
+## Find Subdomains TakeOver :
+subfinder -d HOST >> FILE; assetfinder --subs-only HOST >> FILE; amass enum -norecursive -noalts -d HOST >> FILE; subjack -w FILE -t 100 -timeout 30 -ssl -c $GOPATH/src/**[https://lnkd.in/dMynWErY](https://lnkd.in/dMynWErY)** -v 3 >> takeover ;
